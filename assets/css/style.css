@@ -602,6 +602,10 @@ h1 .li, h2 .li, h3 .li, p .li {
   font-weight: 300;
 }
 
+#text06 em {
+  font-size: 0.8em;
+}
+
 #text06 a {
   text-decoration: underline;
 }
